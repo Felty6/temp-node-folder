@@ -1,0 +1,1 @@
+writeFileSync uses first and second text file: first text, second textwriteFileSync uses first and second text file: first text, second textwriteFileSync uses first and second text file: first text, second text
